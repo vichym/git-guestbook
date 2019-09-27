@@ -1,17 +1,3 @@
 Add your git username here!
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-
-Clermont028
-
-alyPham
-=======
-jacobdweightman
->>>>>>> 42c94089fd0ba8beed713acada821cb652810755
-=======
-I am a demon of Cha0s. I am theDerLord!! KTHXBYE
->>>>>>> fd45dc1702b74608564a987ebde5a5acd7603abf
-=======
 I am a demon of Cha0s! KTHXBYE
->>>>>>> 0f5390f182114891e0e0f3a28f1911d094b2fef4
+lucy-tran just joined MacHack yayyy!!!
