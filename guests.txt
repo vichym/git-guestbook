@@ -24,4 +24,4 @@ jacobdweightman
 
 
 
-Spatel1217, oh boy
+Spatel1217, Clone -> edit -> stage -> commit -> pull (return to edit) -> push
