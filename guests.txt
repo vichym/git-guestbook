@@ -1,5 +1,9 @@
 Add your git username here!
+<<<<<<< HEAD
 
 Clermont028
 
 alyPham
+=======
+jacobdweightman
+>>>>>>> 42c94089fd0ba8beed713acada821cb652810755
